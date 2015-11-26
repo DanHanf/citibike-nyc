@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# DS_Store
+.DS_Store
+
+# data/out/build/lib folders
+data
+out
+build
+lib
